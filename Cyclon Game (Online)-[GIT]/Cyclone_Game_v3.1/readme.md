@@ -111,7 +111,9 @@ A special difficulty spike:
 
 ## 📸 Showcase
 
->  Wiring <img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/bf3f9ede-7104-4712-88cb-20da67ed819e" />
+ <img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/bf3f9ede-7104-4712-88cb-20da67ed819e" />
+ <img width="781" height="593" alt="image" src="https://github.com/user-attachments/assets/252e19ce-7f2a-452c-91dc-2dd7948a6e21" />
+ <img width="787" height="557" alt="image" src="https://github.com/user-attachments/assets/c8ed6c65-7e74-4b38-a167-905eb57ad8df" />
 
 
 ---
