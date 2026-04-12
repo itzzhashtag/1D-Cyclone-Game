@@ -109,6 +109,13 @@ A special difficulty spike:
 
 ---
 
+## 📸 Showcase
+
+>  Wiring <img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/bf3f9ede-7104-4712-88cb-20da67ed819e" />
+
+
+---
+
 ## 🎨 Visual Effects
 
 * 🌈 Rainbow idle animation
