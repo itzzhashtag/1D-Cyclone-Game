@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-Cyclone Game v3.1 is a fast-paced LED-based reflex arcade game built using Arduino, featuring adaptive difficulty, multiple gameplay modes, dynamic target zones, sound effects, and EEPROM-based high score tracking.
+Cyclone Game is a fast-paced LED-based reflex arcade game built using Arduino, featuring adaptive difficulty, multiple gameplay modes, dynamic target zones, sound effects, and EEPROM-based high score tracking.
 </div>
 
 ---
