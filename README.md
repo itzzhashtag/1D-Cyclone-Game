@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 1D LED Cyclone Game 🔥
+# 🎯 1D-LED Cyclone Game 🔥
 
 **by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
 
